@@ -235,7 +235,7 @@ Frontend Container (banking-app-dev-frontend)
 │   ├── npm run build (Production build)
 │   └── Serve via Node.js/nginx
 │
-└── Runtime Configuration
+└── Runtime Configuration 
     ├── Environment: Production
     ├── Port: 3000
     ├── API Endpoint: http://127.0.0.1:8000/                                      
